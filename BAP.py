@@ -1,6 +1,3 @@
-# OSAMAH AHMAD ABDULLAH AL-BAIDHANI
-# TP055229
-
 import sys
 import datetime
 
