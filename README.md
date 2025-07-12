@@ -36,11 +36,3 @@ The app provides **four main options**:
 ### 📝 Ideal Use Case:
 
 A basic tool to simulate or prototype **apartment rental management**, useful for learning purposes or small-scale booking needs.
-
----
-
-Let me know if you'd like to:
-
-* Convert this into a **GUI app with Tkinter** or **web app with Flask**.
-* Get a **Notion-friendly roadmap** or feature checklist.
-* Expand this project for your portfolio.
